@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="505254" started-at="2020-01-18T08:23:12Z" finished-at="2020-01-18T08:31:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="505254" started-at="2020-01-18T08:23:12Z" finished-at="2020-01-18T08:31:37Z">
+      <class name="qa.ecommerceTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qa.ecommerceTest@34b7ac2f]" name="setUp" is-config="true" duration-ms="11298" started-at="2020-01-18T08:23:12Z" finished-at="2020-01-18T08:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qa.ecommerceTest@34b7ac2f]" name="login" duration-ms="493931" started-at="2020-01-18T08:23:23Z" finished-at="2020-01-18T08:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- qa.ecommerceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
